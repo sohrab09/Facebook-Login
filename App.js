@@ -20,6 +20,7 @@ export default function App() {
           <TextInput
             style={styles.input}
             placeholder="Enter Your Password"
+            secureTextEntry
           />
         </View>
 
